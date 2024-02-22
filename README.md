@@ -1,3 +1,3 @@
 Link of website:
 
-goooglesample.netlify.app
+https://goooglesample.netlify.app/
